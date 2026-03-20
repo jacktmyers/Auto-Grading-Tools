@@ -1,0 +1,5 @@
+.aider*
+.data-example
+.env
+*.pyc
+__pycache__/

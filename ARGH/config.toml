@@ -1,0 +1,9 @@
+assignment_directory = "C:\\Users\\Jack\\Documents\\TA\\390\\Clones\\15"
+metric_prompt_directory = "C:\\Users\\Jack\\Documents\\TA\\ARGH\\metrics"
+report_location = ".grading\\report.md"
+
+keyword = "qwen3.5:cloud"
+matcher = "frob/qwen3.5-instruct:9b"
+metric = "frob/qwen3.5-instruct:9b"
+
+
